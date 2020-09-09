@@ -4,4 +4,4 @@ Im Yassine Bouziane a UI/UX Developer, Gamer from Algeria, 25 years old , speak 
 
 i do freelancing work as a living find me at [**https://phpkiller.me**](https://phpkiller.me) or at twitter [**@phpkiller**](https://twitter.com/phpkiller)
 
-![sdfdf](https://phpkiller.me/assets/images/about_image.jpg)
+![PHPkiller](https://cdn.discordapp.com/attachments/485096965374214144/753046836469694606/about_image.jpg)
