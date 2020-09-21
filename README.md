@@ -9,9 +9,9 @@ i do freelancing work as a living.
 - PhotoShop
 
 ## Working On
-- working on Fantasy MMORPG text-based game 
+- working on Fantasy MMORPG text-based game.
 
 ## Contact
 - **My Web Site:** [https://phpkiller.me](https://phpkiller.me)  
 - **Twitter:** [@phpkiller](https://twitter.com/phpkiller)
-- Get more on my web site
+- Get more on my web site.
