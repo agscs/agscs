@@ -2,9 +2,6 @@
 My real name is **Yassine Bouziane**, A web Developer, and Gamer from Algeria, 25 years old , speak Arabic, English, French.
 i do freelancing work as a living.
 
-
-
-
 ## Skills and Experience
 - PHP 
 - HTML / CSS / JS / JQuery
