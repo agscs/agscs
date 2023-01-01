@@ -1,6 +1,6 @@
 ## Hi there 👋, Im PHPkiller a UI/UX Developer
 
-My real name is **Yassine Bouziane**, A web Developer, and Gamer from Algeria, 25 years old , speak Arabic, English, French.
+My real name is **Yassine Bouziane**, A web Developer, and Gamer from Algeria, 28 years old , speak Arabic, English, French.
 i do freelancing work as a living.
 
 ## Skills and Experience
@@ -19,5 +19,3 @@ i do freelancing work as a living.
 - **My Web Site:** [https://phpkiller.me](https://phpkiller.me)  
 - **Twitter:** [@phpkiller](https://twitter.com/phpkiller)
 - Get more on my web site.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T47Q1VG)
