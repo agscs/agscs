@@ -19,3 +19,5 @@ i do freelancing work as a living.
 - **My Web Site:** [https://phpkiller.me](https://phpkiller.me)  
 - **Twitter:** [@phpkiller](https://twitter.com/phpkiller)
 - Get more on my web site.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agscs)](https://git.io/streak-stats)
