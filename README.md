@@ -12,7 +12,8 @@ i do freelancing work as a living.
 
 ## Working On
 
-- working on Fantasy MMORPG text-based game.
+- working on Fantasy PBBG game.
+- working on mafia PBBG game [https://crime.fm](https://crime.fm).
 
 ## Contact
 
