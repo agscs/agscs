@@ -25,9 +25,3 @@ i do freelancing work as a living.
 [![agscs's GitHub stats](https://github-readme-stats.vercel.app/api?username=agscs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-[![Contributor over time](https://contributor-overtime-api.git-contributor.com/contributors-svg?chart=contributorOverTime&repo=agscs/agscs&merge=true)](https://git-contributor.com?chart=contributorOverTime&repo=agscs/agscs&merge=true)
-
-
