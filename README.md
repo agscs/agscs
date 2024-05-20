@@ -22,5 +22,5 @@ i do freelancing work as a living.
 - Get more on my web site.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=agscs&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=agscs&theme=github-dark-blue&mode=weekly&type=png)](https://git.io/streak-stats)
 [![agscs's GitHub stats](https://github-readme-stats.vercel.app/api?username=agscs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
