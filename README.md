@@ -8,7 +8,7 @@ i do freelancing work as a living.
 - PHP
 - HTML / CSS / JS / JQuery
 - MySQL
-- PhotoShop
+- PhotoShop, Lunacy, Figma
 
 ## Working On
 
