@@ -1,25 +1,24 @@
-## Hi there 👋, Im PHPkiller a UI/UX Developer
+# Hi there 👋, I'm PHPkiller a UI/UX Developer
 
-My real name is **Yassine Bouziane**, A web Developer, and Gamer from Algeria, 30 years old , speak Arabic, English, French.
-i do freelancing work as a living.
+My real name is **Yassine Bouziane**, a web developer and gamer from Algeria. I am a 30-year-old fluent in Arabic, English, and French. I do freelancing work for a living.
 
 ## Skills and Experience
 
 - PHP
-- HTML / CSS / JS / JQuery
+- HTML / CSS / JavaScript / jQuery
 - MySQL
-- PhotoShop, Lunacy, Figma
+- Photoshop, Lunacy, Figma
 
 ## Working On
 
-- Working on Mafia PBBG game [https://crime.fm](https://crime.fm).
-- Working on Fantasy PBBG game.
+- Developing a Mafia PBBG game [https://crime.fm](https://crime.fm).
+- Developing a Fantasy PBBG game.
 
 ## Contact
 
 - **My Web Site:** [https://phpkiller.me](https://phpkiller.me)  
 - **Twitter:** [@phpkiller](https://twitter.com/phpkiller)
-- Get more on my web site.
+- Find more on my website.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=agscs&theme=github-dark-blue&mode=weekly&type=png)](https://git.io/streak-stats)
