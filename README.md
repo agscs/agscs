@@ -22,6 +22,7 @@ My real name is **Yassine Bouziane**, a full-stack web developer and gamer from 
 - **Twitter:** [@phpkiller](https://twitter.com/phpkiller)
 - **LinkedIn:** [in/phpkiller](https://linkedin.com/in/phpkiller)
 - **Wonderful.dev:** [wonderful.dev/phpkiller](https://wonderful.dev/phpkiller)
+- **WakaTime:** [wakatime.com/@phpkiller](https://wakatime.com/@phpkiller)
 - **Email:** [support@phpkiller.me](support@phpkiller.me)
 
 ## Stats
